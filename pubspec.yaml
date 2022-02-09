@@ -1,0 +1,112 @@
+name: flutter_ggg
+description: A new Flutter project.
+publish_to: none
+version: 1.0.0+1
+environment: 
+  sdk: '>=2.15.1 <3.0.0'
+dependencies: 
+  flutter: 
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  auto_size_text: 3.0.0
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+  flutter_lints: ^1.0.0
+flutter: 
+  uses-material-design: true
+  assets: 
+    - packages/flutter_ggg/assets/images/I2_202;2_3.png
+    - packages/flutter_ggg/assets/images/2_207.png
+    - packages/flutter_ggg/assets/images/I2_212;2_5.png
+    - packages/flutter_ggg/assets/images/I2_213;2_9.png
+    - packages/flutter_ggg/assets/images/I2_214;2_16.png
+    - packages/flutter_ggg/assets/images/I2_220;2_21.png
+    - packages/flutter_ggg/assets/images/I2_220;2_23;2_53.png
+    - packages/flutter_ggg/assets/images/I2_220;2_24;2_60.png
+    - packages/flutter_ggg/assets/images/I2_220;2_27.png
+    - packages/flutter_ggg/assets/images/I2_220;2_29.png
+    - packages/flutter_ggg/assets/images/I2_220;2_31.png
+    - packages/flutter_ggg/assets/images/I2_220;2_34.png
+    - packages/flutter_ggg/assets/images/I2_220;2_36.png
+    - packages/flutter_ggg/assets/images/I2_220;2_39.png
+    - packages/flutter_ggg/assets/images/I2_220;2_41.png
+    - packages/flutter_ggg/assets/images/I2_220;2_43.png
+    - packages/flutter_ggg/assets/images/I2_220;2_45.png
+    - packages/flutter_ggg/assets/images/I2_220;2_49.png
+    - packages/flutter_ggg/assets/images/I2_220;2_51.png
+    - packages/flutter_ggg/assets/images/I2_221;2_70.png
+    - packages/flutter_ggg/assets/images/I2_221;2_74.png
+    - packages/flutter_ggg/assets/images/I2_221;2_78.png
+    - packages/flutter_ggg/assets/images/I2_222;2_89;2_94.png
+    - packages/flutter_ggg/assets/images/I2_222;2_90;2_113.png
+    - packages/flutter_ggg/assets/images/I2_222;2_91;2_102.png
+    - packages/flutter_ggg/assets/images/I2_222;2_92;2_107.png
+    - packages/flutter_ggg/assets/images/I2_224;2_117.png
+    - packages/flutter_ggg/assets/images/I2_225;2_114.png
+    - packages/flutter_ggg/assets/images/I2_226;2_114.png
+    - packages/flutter_ggg/assets/images/I2_227;2_114.png
+    - packages/flutter_ggg/assets/images/I2_228;2_114.png
+    - packages/flutter_ggg/assets/images/I2_229;2_125.png
+    - packages/flutter_ggg/assets/images/2_231.png
+    - packages/flutter_ggg/assets/images/I2_232;2_128.png
+    - packages/flutter_ggg/assets/images/2_233.png
+    - packages/flutter_ggg/assets/images/2_234.png
+    - packages/flutter_ggg/assets/images/2_235.png
+    - packages/flutter_ggg/assets/images/2_236.png
+    - packages/flutter_ggg/assets/images/2_237.png
+    - packages/flutter_ggg/assets/images/I2_239;2_133.png
+    - packages/flutter_ggg/assets/images/2_241.png
+    - packages/flutter_ggg/assets/images/2_244.png
+    - packages/flutter_ggg/assets/images/2_247.png
+    - packages/flutter_ggg/assets/images/2_250.png
+    - packages/flutter_ggg/assets/images/I2_253;2_51.png
+    - packages/flutter_ggg/assets/images/I2_253;2_50.png
+    - packages/flutter_ggg/assets/images/I2_253;2_46.png
+    - packages/flutter_ggg/assets/images/I2_253;2_44.png
+    - packages/flutter_ggg/assets/images/I2_253;2_42.png
+    - packages/flutter_ggg/assets/images/I2_253;2_40.png
+    - packages/flutter_ggg/assets/images/I2_253;2_37.png
+    - packages/flutter_ggg/assets/images/I2_253;2_35.png
+    - packages/flutter_ggg/assets/images/I2_253;2_32.png
+    - packages/flutter_ggg/assets/images/I2_253;2_30.png
+    - packages/flutter_ggg/assets/images/I2_253;2_28.png
+    - packages/flutter_ggg/assets/images/I2_254;2_78.png
+    - packages/flutter_ggg/assets/images/I2_254;2_74.png
+    - packages/flutter_ggg/assets/images/I2_254;2_72.png
+    - packages/flutter_ggg/assets/images/2_256.png
+    - packages/flutter_ggg/assets/images/I2_257;2_128.png
+    - packages/flutter_ggg/assets/images/2_258.png
+    - packages/flutter_ggg/assets/images/2_259.png
+    - packages/flutter_ggg/assets/images/2_260.png
+    - packages/flutter_ggg/assets/images/2_261.png
+    - packages/flutter_ggg/assets/images/2_262.png
+    - packages/flutter_ggg/assets/images/2_265.png
+    - packages/flutter_ggg/assets/images/2_275.png
+    - packages/flutter_ggg/assets/images/2_276.png
+    - packages/flutter_ggg/assets/images/2_277.png
+    - packages/flutter_ggg/assets/images/I2_279;2_137.png
+    - packages/flutter_ggg/assets/images/2_287.png
+    - packages/flutter_ggg/assets/images/2_291.png
+    - packages/flutter_ggg/assets/images/I2_296;2_114.png
+    - packages/flutter_ggg/assets/images/I2_297;2_114.png
+    - packages/flutter_ggg/assets/images/I2_298;2_114.png
+    - packages/flutter_ggg/assets/images/I2_299;2_114.png
+    - packages/flutter_ggg/assets/images/I2_303;2_146;2_150.png
+    - packages/flutter_ggg/assets/images/I2_303;2_147;2_152.png
+    - packages/flutter_ggg/assets/images/I2_304;2_78.png
+    - packages/flutter_ggg/assets/images/I2_304;2_74.png
+    - packages/flutter_ggg/assets/images/I2_304;2_72.png
+    - packages/flutter_ggg/assets/images/I2_308;2_133.png
+    - packages/flutter_ggg/assets/images/I2_309;2_133.png
+    - packages/flutter_ggg/assets/images/I2_310;2_133.png
+    - packages/flutter_ggg/assets/images/I2_311;2_158.png
+    - packages/flutter_ggg/assets/images/I2_311;2_161;2_163.png
+    - packages/flutter_ggg/assets/images/I2_312;2_158.png
+    - packages/flutter_ggg/assets/images/I2_313;2_158.png
+    - packages/flutter_ggg/assets/images/I2_314;2_170.png
+    - packages/flutter_ggg/assets/images/I2_314;2_177.png
+    - packages/flutter_ggg/assets/images/I2_314;2_185;2_152.png
+    - packages/flutter_ggg/assets/images/I2_315;2_170.png
+    - packages/flutter_ggg/assets/images/I2_315;2_177.png
+    - packages/flutter_ggg/assets/images/I2_316;2_191.png
